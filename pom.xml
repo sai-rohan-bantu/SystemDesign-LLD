@@ -11,6 +11,7 @@
     <modules>
         <module>memento-pattern</module>
         <module>Visitor</module>
+        <module>Chain-of-Responsibiliy-Pattern</module>
     </modules>
 
     <properties>
