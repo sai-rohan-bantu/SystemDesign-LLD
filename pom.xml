@@ -13,6 +13,7 @@
         <module>Visitor</module>
         <module>Chain-of-Responsibiliy-Pattern</module>
         <module>Template-Design-Pattern</module>
+        <module>State-Design-Pattern</module>
     </modules>
 
     <properties>
