@@ -15,6 +15,6 @@ public class Main {
         manager.setNextApprover(director);
         director.setNextApprover(hr);
 
-        supervisor.approveRequest(7);
+        supervisor.approveRequest(8);
     }
 }
