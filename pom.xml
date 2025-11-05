@@ -17,6 +17,7 @@
         <module>Command-Design-Pattern</module>
         <module>Mediator-Design-Pattern</module>
         <module>Iterator-Design-Pattern</module>
+        <module>Observer-Design-Pattern</module>
     </modules>
 
     <properties>
