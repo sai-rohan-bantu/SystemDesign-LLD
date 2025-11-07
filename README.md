@@ -15,6 +15,8 @@ This Repo is a collection of Low Level System Design Behavioural Patterns.
 <img width="1068" height="473" alt="image" src="https://github.com/user-attachments/assets/4f55ea17-390d-4948-9f5c-efcbed33cfeb" />
 <h1> Chain of Responsibility Design Pattern </h1>
 <img width="1056" height="380" alt="image" src="https://github.com/user-attachments/assets/926c4ca6-b4d9-4134-b01f-bdf2bcb5bd8a" />
+<h1> Visitor Design Pattern </h1>
+<img width="1088" height="453" alt="image" src="https://github.com/user-attachments/assets/62987de5-8edf-48a4-8186-32b022e3f897" />
 
 
 
