@@ -9,6 +9,9 @@ This Repo is a collection of Low Level System Design Behavioural Patterns.
 <img width="1057" height="562" alt="image" src="https://github.com/user-attachments/assets/83999b77-fe8c-412f-8019-8b0a22336639" />
 <h1> Mediator Pattern </h1>
 <img width="1065" height="565" alt="image" src="https://github.com/user-attachments/assets/363f1f5f-4161-4025-b5ce-55b529c35cab" />
+<h1> State Design Pattern </h1>
+<img width="1067" height="564" alt="image" src="https://github.com/user-attachments/assets/e2d25070-387d-4395-8457-b26bb056026e" />
+
 
 
 
